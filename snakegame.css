@@ -1,0 +1,15 @@
+.bodybg {
+    font-size: 20px;
+    background-image: url("Assets/Wallpaper.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.score1Board {
+    font-size: 15px;
+    font-family: 'Indie Flower', cursive;
+}
+.score2Board {
+    font-size: 15px;
+    font-family: 'indie Flower', cursive;
+}
